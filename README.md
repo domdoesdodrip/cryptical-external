@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------
 
-# Download https://crypticalz.netlify.app/
+# Download https://cryptical.wtf/
 # Support https://discord.gg/BdKVbx8gue
 <img width="824" height="626" alt="image" src="https://github.com/user-attachments/assets/9af3a058-93f3-45da-a83b-50042cd49f86" />
 
